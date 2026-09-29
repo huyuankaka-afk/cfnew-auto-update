@@ -16,3 +16,4 @@
 > 4. 找到 **兼容性日期**，选择 `2026-01-20`，点击 **保存**
 >
 > 这个设置只用改一次，之后每 6 小时的自动同步不会动它。
+<!-- auto-update webhook test: push should trigger a Cloudflare Pages build -->
